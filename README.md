@@ -37,10 +37,8 @@ A significant portion of this project focuses on empirically evaluating the RAG 
 
 ## 👨‍💻 Author
 
-**Nattawut Simcharoen (Nut)**
+**Nuttawut Simcharoen (Nut)**
 *Computer Engineering Student at King Mongkut's University of Technology Thonburi (KMUTT)*
 
 I am an aspiring AI Engineer passionate about building scalable AI solutions and currently actively seeking full-time opportunities.
 
-* [LinkedIn Profile] (Link your LinkedIn here)
-* [Email Address] (Add your email here)
